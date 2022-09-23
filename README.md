@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=pc2o7pkZTQ0
 https://github.com/academind/aws-demos
 
 ##
-
+https://raw.githubusercontent.com/RodrigoMvs123/Optimizing-Content-Delivery-with-CloudFront-Using-Custom-Domains-Route-53/main/README.md
 ##
 
 ##
